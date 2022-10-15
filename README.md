@@ -23,7 +23,7 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
+ALGORITHM:
 Importing the libraries
 Importing the dataset
 Taking care of missing data
