@@ -31,7 +31,7 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
+PROGRAM:
 ```
 import pandas as pd
 
@@ -95,6 +95,6 @@ print(df1)
 
 ![exp1(5)](https://user-images.githubusercontent.com/112338645/195977794-aede1605-559d-45e9-8391-ded3c650116b.png)
 
-##RESULT
+RESULT:
 
 Thus, the above program for standardizing the given data was implemented successfully.
