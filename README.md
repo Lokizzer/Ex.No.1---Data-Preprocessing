@@ -32,7 +32,8 @@ Normalizing the data
 Splitting the data into test and train
 
 ##PROGRAM:
-```import pandas as pd
+```
+import pandas as pd
 
 df=pd.read_csv("/content/Churn_Modelling.csv")
 
@@ -74,9 +75,26 @@ print(df1)
 ```
 
 ## OUTPUT:
+## Dataset:
 
-![image](https://user-images.githubusercontent.com/112338645/195976108-0bf30383-ed06-4cb4-8d84-bbefe4110cf3.png)
+![exp1(1)](https://user-images.githubusercontent.com/112338645/195977638-87e9a9bf-3a28-4150-b4bd-ecb9733abcd9.png)
 
+## Discribing Data:
+
+![exp1(2)](https://user-images.githubusercontent.com/112338645/195977670-71ef8eb7-770a-4662-8ae9-94daff53d00d.png)
+
+## Normalized Data:
+
+![194619285-4bb13595-b742-4110-b4bd-e80038867668](https://user-images.githubusercontent.com/112338645/195977707-3e129c27-b740-4e8b-9f9b-072e89ce338b.png)
+
+## X_train and Y_train Values:
+
+![exp1(4)](https://user-images.githubusercontent.com/112338645/195977758-e025cab3-c211-4378-8af0-1fb418ac299c.png)
+
+## X_test and Y_test Values:
+
+![exp1(5)](https://user-images.githubusercontent.com/112338645/195977794-aede1605-559d-45e9-8391-ded3c650116b.png)
 
 ##RESULT
-/Type your result here/
+
+Thus, the above program for standardizing the given data was implemented successfully.
